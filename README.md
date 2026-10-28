@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CHIIRP is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://chiirp.com/
+CHIIRP provides an AI‑powered revenue optimization platform for home‑service businesses such as HVAC, plumbing, electrical, garage‑door and roofing companies. Its solution automates lead response, missed‑call recovery, estimate follow‑up and booking through AI voice agents, two‑way SMS, and integrations with ServiceTitan, Housecall Pro, Jobber and more, helping businesses increase conversion and streamline operations.
+
+**Areas:** Company · AI · Home Services · Revenue Optimization · Automation
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://chiirp.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/chiirp/](https://apis.io/providers/chiirp/).
